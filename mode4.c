@@ -207,7 +207,7 @@ void fonctionmode5 (){
     damier[4][15]=4;
 
 
-    //affichage du plateau de jeu à 4 joueurs et déplacement de pions verifié
+    //affichage du plateau de jeu à 4 joueurs et déplacement de pions verifiés
     int bool1=1;
     int m=1, a;
     int Joueurquijoue=0;
